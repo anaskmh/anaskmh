@@ -6,7 +6,7 @@
 - 🛠️ DevOps / Cloud Engineer (AWS • Kubernetes • CI/CD)
 - 🚀 I build reliable infrastructure, automate delivery, and improve observability
 - 📦 My projects: https://github.com/anaskmh
-- 📫 Reach me: YOUR_EMAIL
+- 📫 Reach me:anaskofficial8@gmail.com
 
 ---
 
