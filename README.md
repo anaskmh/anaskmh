@@ -1,65 +1,60 @@
-<!-- anaskmh/README.md -->
+<div align="center">
 
-# 👋 Hi, I’m Anas (anaskmh)
+# Anas Kadambalath
 
-## 🧠 About Me
-- 🛠️ DevOps / Cloud Engineer (AWS • Kubernetes • CI/CD)
-- 🚀 I build reliable infrastructure, automate delivery, and improve observability
-- 📦 My projects: https://github.com/anaskmh
-- 📫 Reach me:anaskofficial8@gmail.com
+**DevOps Engineer · AWS & Kubernetes · Grafana UAE Community Organizer**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaskmh)
+[![Website](https://img.shields.io/badge/anask.online-111111?style=flat-square&logo=safari&logoColor=white)](https://anask.online)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anaskofficial8@gmail.com)
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM)
+</div>
 
 ---
 
-## 💻 Tech Stack
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![GCP](https://img.shields.io/badge/GCP-111111?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-
-### 🧱 Infrastructure as Code
-![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=844FBA)
-![Ansible](https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=EE0000)
-![Helm](https://img.shields.io/badge/Helm-111111?style=for-the-badge&logo=helm&logoColor=0F1689)
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![EKS](https://img.shields.io/badge/Amazon%20EKS-111111?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-### 🔁 CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
-![Jenkins](https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939)
-
-### 📈 Observability
-![Prometheus](https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=E6522C)
-![Grafana](https://img.shields.io/badge/Grafana-111111?style=for-the-badge&logo=grafana&logoColor=F46800)
-![ELK](https://img.shields.io/badge/ELK-111111?style=for-the-badge&logo=elasticstack&logoColor=FEC514)
-
-### 🖥️ OS & Scripting
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+I build reliable infrastructure, automate delivery pipelines, and run the **Grafana UAE community**. Currently contributing to the [Nostr protocol](https://github.com/nostr-protocol/nips) as an open-source author.
 
 ---
 
-## 📊 GitHub Stats (optional)
-![](https://github-readme-stats.vercel.app/api?username=anaskmh&show_icons=true&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anaskmh&hide_border=true)
-![](https://github-profile-trophy.vercel.app/?username=anaskmh&margin-w=10&no-frame=true)
+## 🛠 Tech Stack
+
+**Cloud**
+`AWS` `Azure` `GCP`
+
+**Infrastructure as Code**
+`Terraform` `Ansible` `Helm`
+
+**Containers & Orchestration**
+`Docker` `Kubernetes` `Amazon EKS`
+
+**CI/CD**
+`GitHub Actions` `GitLab CI` `Jenkins`
+
+**Observability**
+`Prometheus` `Grafana` `ELK Stack`
+
+**Scripting**
+`Bash` `Python` `Linux`
 
 ---
 
-## ✨ Pinned Highlights (recommended)
-- ✅ Kubernetes / EKS deployment repo
-- ✅ Terraform AWS modules repo
-- ✅ CI/CD pipelines examples repo
-- ✅ Observability stack (Prometheus+Grafana) repo
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [InfraCopilot](https://github.com/anaskmh/InfraCopilot) | AI-powered CLI that converts natural language into production-ready DevOps infrastructure & CI/CD automation |
+| [Odin AI Trading Companion](https://github.com/anaskmh/Odin-AI-Trading-Companion) | Multi-agent AI trading platform with real-time market monitoring and pattern recognition |
+| [Cortex](https://github.com/anaskmh/cortex) | Local-first AI coding assistant with multi-agent orchestration and RAG over your codebase |
+| [AWS Monitor](https://github.com/anaskmh/awsmonitor) | AWS infrastructure monitoring tool |
+| [IftarInUAE](https://github.com/anaskmh/iftarinuae) | Community app to discover and share Iftar spots across the UAE |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaskmh&show_icons=true&hide_border=true&theme=default&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaskmh&layout=compact&hide_border=true&theme=default)
+
+</div>
