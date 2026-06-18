@@ -4,8 +4,9 @@
 
 **DevOps Engineer · AWS & Kubernetes · Grafana UAE Community Organizer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaskmh)
-[![Website](https://img.shields.io/badge/anask.online-111111?style=flat-square&logo=safari&logoColor=white)](https://anask.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaskadambalath/)
+[![Portfolio](https://img.shields.io/badge/anask.online-111111?style=flat-square&logo=safari&logoColor=white)](https://anask.online)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@cloudtruck)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anaskofficial8@gmail.com)
 
 </div>
@@ -18,23 +19,17 @@ I build reliable infrastructure, automate delivery pipelines, and run the **Graf
 
 ## 🛠 Tech Stack
 
-**Cloud**
-`AWS` `Azure` `GCP`
+**Cloud** &nbsp; `AWS` `Azure` `GCP`
 
-**Infrastructure as Code**
-`Terraform` `Ansible` `Helm`
+**Infrastructure as Code** &nbsp; `Terraform` `Ansible` `Helm`
 
-**Containers & Orchestration**
-`Docker` `Kubernetes` `Amazon EKS`
+**Containers & Orchestration** &nbsp; `Docker` `Kubernetes` `Amazon EKS`
 
-**CI/CD**
-`GitHub Actions` `GitLab CI` `Jenkins`
+**CI/CD** &nbsp; `GitHub Actions` `GitLab CI` `Jenkins`
 
-**Observability**
-`Prometheus` `Grafana` `ELK Stack`
+**Observability** &nbsp; `Prometheus` `Grafana` `ELK Stack`
 
-**Scripting**
-`Bash` `Python` `Linux`
+**Scripting** &nbsp; `Bash` `Python` `Linux`
 
 ---
 
@@ -55,6 +50,17 @@ I build reliable infrastructure, automate delivery pipelines, and run the **Graf
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaskmh&show_icons=true&hide_border=true&theme=default&hide_title=true)
+&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaskmh&layout=compact&hide_border=true&theme=default)
+
+</div>
+
+---
+
+## 🟩 Contributions
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anaskmh&theme=minimal&hide_border=true&area=true)
 
 </div>
